@@ -35,5 +35,8 @@ Track history back and find the common points between branches
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Changes from both branches are combined into a single version of the file
+You can see the history and the fact that the merge copy has two parents and you can see the history of each parent
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
