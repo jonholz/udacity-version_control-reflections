@@ -38,5 +38,9 @@ the diagram the way we do?
 Changes from both branches are combined into a single version of the file
 You can see the history and the fact that the merge copy has two parents and you can see the history of each parent
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Automatic merging is much much faster
+Manual merging allows you to choose the correct merge points
+Automatic merging can't do every merge nor should it
+Manual merging could become extremely tedious for the merges that are simple
