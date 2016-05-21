@@ -28,6 +28,10 @@ Will definitely help when collaborating
 
 How do the diagrams help you visualize the branch structure?
 
+You can see the history and where branches diverged
+What has changed in all the branches since they diverged
+Track history back and find the common points between branches
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
